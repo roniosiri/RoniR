@@ -1,0 +1,30 @@
+/*dokumen css*/
+
+tulisan_miring{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.cetak_tebal{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+#14pt{
+    font-size: 14pt;
+}
+
+p{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+td{
+    font-weight: bold;
+}
+
+a{
+    font-size: 24px;
+}

@@ -1,0 +1,21 @@
+/*dokumen css1*/
+
+p {
+    font-variant: small-caps;
+}
+
+img {
+    width: 10%;
+    height: auto;
+}
+
+.judul{
+    color: darkslategray;
+    
+}
+
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.satu h2 { text-align: center;}
